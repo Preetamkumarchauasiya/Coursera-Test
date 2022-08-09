@@ -1,3 +1,12 @@
+Module2_Solution  https://preetamkumarchauasiya.github.io/Coursera-Test/module2_solution/index.html
+
+Module3_Solution  https://preetamkumarchauasiya.github.io/Coursera-Test/module3%20Solution/index.html
+
+Module4_Solution  https://preetamkumarchauasiya.github.io/Coursera-Test/module4_solution/index.html
+
+Module5_Solution  https://preetamkumarchauasiya.github.io/Coursera-Test/module5_solution/index.html#
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Preetamkumarchauasiya/Coursera-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
